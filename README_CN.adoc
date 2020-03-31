@@ -11,7 +11,7 @@ $: `python3 xxx.py ---xxxx=  --xxx= `
 
 * backup.py : 备份任意目录所有文件。
 * graying.py : 灰度化图片并保存。
-* changeMakeFile.py : 改变文件类型火新建同名不同类型文件。
+* changeMakeFile.py : 改变文件类型或新建同名不同类型文件。
 * convertImage.py : 转换图片类型。
 * Email2phone.py : 发送文件到手机。
 * Taxfee.py : 计算五险一金及党费。
