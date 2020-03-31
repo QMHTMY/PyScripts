@@ -1,0 +1,19 @@
+# Some useful python scripts 
+:experimental:
+:author: 'Shieber'
+:date: '2020.03.31'
+
+
+### Usage
+$: `python3 xxx.py ---xxxx=  --xxx= `
+
+### Description
+[link:README_CN.adoc[中文]] These scripts are for daily use to convenient your jobs.
+
+* backup.py : to backup files of any folder.
+* graying.py : to gray images.
+* changeMakeFile.py : can change file type or make new files.
+* convertImage.py : can change image type .
+* Email2phone.py : send file to your mobile phone. 
+* Taxfee.py : calculate how much tax fee you need to pay every month.
+* XlsxDocxPptx2pdf.py : transfer excel, word, ppt to pdf. 
