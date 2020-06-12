@@ -95,7 +95,7 @@ class All_taxes_fee():
         else:
             return [None,0]
 
-        #print("你的收入等级:%d级, 应缴税款:%.2f元"%(order,round(tax,2))) 
+        #print("你的收入等级:{order}级, 应缴税款:{round(tax,2):.2f}元") 
         return [order,round(tax,2)]
 
     def partyfeecalc(self):
