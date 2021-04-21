@@ -16,3 +16,4 @@ $: `python3 xxx.py ---xxxx=  --xxx= `
 * Email2phone.py : 发送文件到手机。
 * Taxfee.py : 计算五险一金及党费。
 * XlsxDocxPptx2pdf.py : 转excel，word，ppt为pdf格式。
+* SystemFileStatic.py :统计用户目录下文件大小信息。

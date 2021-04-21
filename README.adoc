@@ -17,3 +17,4 @@ $: `python3 xxx.py ---xxxx=  --xxx= `
 * Email2phone.py : send file to your mobile phone. 
 * Taxfee.py : calculate how much tax fee you need to pay every month.
 * XlsxDocxPptx2pdf.py : transfer excel, word, ppt to pdf. 
+* SystemFileStatic.py : Static the size of files under home directory.
